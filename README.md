@@ -8,7 +8,7 @@ Employed the dip coating technique to achieve uniform thin films on glass substr
 
 Characterized coatings through SEM cross-sectional imaging, UV-Vis-NIR spectrophotometry, and electrical conductivity measurements, observing up to 35x improvement in conductivity with increased TiO₂ content.
 
-Analyzed how polymer choice and nanoparticle loading affected film thickness, uniformity, aggregation behavior, and overall reflectance potential.
+Analyzed how polymer choice and nanoparticle loading affected film thickness, uniformity, aggregation behavior.
 
 Identified 7.5% TiO₂ in PVP as an optimal composition offering a balance of thickness, uniformity, and conductivity for thermal management applications.
 
